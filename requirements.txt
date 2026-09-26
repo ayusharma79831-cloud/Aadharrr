@@ -1,6 +1,0 @@
-requests
-PyPDF2
-ddddocr
-Pillow
-pytesseract
-urllib3=2.1.0
